@@ -1,0 +1,22 @@
+* {font-family:Bahnschrift;background:#F2F2F2;}
+body{background: #F2F2F2;
+background: linear-gradient(to bottom, #F2F2F2 90%, #82CF9D 30%, #9F83D1 100%);}
+
+h1 {color:#574b75;font-size:40px;}
+h2 {color:#574b75;font-size:35px;}
+h3 {color:#9f83d1;font-size:30px;}
+h4 {color:#9f83d1;font-size:20px;}
+p {color:#241e2f;}
+h5 {color:#241e2f;font-size:16px;}
+h6 {color:#b0a1b6;font-size:16px;}
+
+.underline {text-decoration: underline;}
+.bold {font-weight:700}
+.through {text-decoration: line-through}
+.overline {text-decoration: overline}
+
+.italic {font-style: italic;}
+.smallcaps {font-variant: small-caps;}
+.capitalize {text-transform: capitalize;}
+.uppercase {text-transform: uppercase;}
+.uppercase {text-transform: lowercase;}
